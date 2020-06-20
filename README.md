@@ -12,11 +12,18 @@ _Email_: <joannytan@gmail.com>
 
 **Languages**
 
-English
-Chinese
-Bahasa Melayu
-Conversational Cantonese
-Conversational Hokkien
+English  
+Chinese  
+Bahasa Melayu  
+Conversational Cantonese  
+Conversational Hokkien  
+
+**Employment Experience**
+
+Shiny app developer  
+Data analyst  
+Teaching associate  
+Senior lecturer  
 
 **Academic Qualifications**
 
