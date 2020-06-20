@@ -8,7 +8,7 @@
 Department of Econometrics and Business Statistics  
 Monash Business School (Caulfield)  
 Victoria, Australia  
-Email: <joannytan@gmail.com>
+_Email_: <joannytan@gmail.com>
 
 **Languages**
 
